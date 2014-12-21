@@ -1,0 +1,23 @@
+{
+  "name": "polymer",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Shamaeli <daniel.shamaeli@gmail.com>"
+  ],
+  "description": "my first polymer app",
+  "main": "polymer",
+  "keywords": [
+    "daniel",
+    "polymer"
+  ],
+  "license": "MIT",
+  "homepage": "www.shamaeli.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
